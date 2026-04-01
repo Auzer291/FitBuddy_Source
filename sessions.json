@@ -1,0 +1,62 @@
+{
+    "Quick Start": [
+        {
+            "name": "Squat",
+            "sets": 3,
+            "reps": 10
+        },
+        {
+            "name": "Bicep Curl",
+            "sets": 3,
+            "reps": 10
+        }
+    ],
+    "Leg Day": [
+        {
+            "name": "Squat",
+            "sets": 3,
+            "reps": 12
+        },
+        {
+            "name": "Squat",
+            "sets": 3,
+            "reps": 12
+        },
+        {
+            "name": "Squat",
+            "sets": 3,
+            "reps": 12
+        }
+    ],
+    "Arm Day": [
+        {
+            "name": "Bicep Curl",
+            "sets": 4,
+            "reps": 10
+        },
+        {
+            "name": "Bicep Curl",
+            "sets": 4,
+            "reps": 10
+        }
+    ],
+    "aaaaaa": [
+        {
+            "name": "Bicep Curl",
+            "sets": 1,
+            "reps": 10
+        },
+        {
+            "name": "Bicep Curl",
+            "sets": 1,
+            "reps": 5
+        }
+    ],
+    "ambatukammm": [
+        {
+            "name": "curls",
+            "sets": 1,
+            "reps": 10
+        }
+    ]
+}
