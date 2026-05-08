@@ -33,7 +33,7 @@
 
 **1. Clone repo**
 ```bash
-git clone https://github.com/your-username/fitbuddy.git
+git clone https://github.com/Auzer291/fitbuddy.git
 cd fitbuddy
 ```
 
