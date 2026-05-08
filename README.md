@@ -26,7 +26,7 @@
 ## 🛠️ Cài Đặt
 
 ### Yêu Cầu
-- **Python 3.10.11** Tải tại [python.org](https://www.python.org/downloads/release/python-31011/)
+- **Python 3.11.9** Tải tại [python.org](https://www.python.org/downloads/release/python-31011/)
   > ⚠️ Khi cài đặt, nhớ tích vào ô **"Add Python to PATH"**
 
 ### Các Bước
@@ -37,7 +37,7 @@ git clone https://github.com/Auzer291/FitBuddy_Source.git
 cd fitbuddy
 ```
 
-**2. Tạo môi trường ảo** *(khuyến nghị)*
+**2. Tạo môi trường ảo** *(phiên bản khuyến nghị: 3.11.9)*
 ```bash
 python -m venv .venv
 ```
